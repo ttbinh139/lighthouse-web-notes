@@ -1,5 +1,4 @@
 # Binh Trinh's notes
 
-# This is H1 header
-
-##### This is H5 header
+## Summary
+This repository includes all of the notes taken by [Binh Trinh](https://github.com/ttbinh139) during learning the course of [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
